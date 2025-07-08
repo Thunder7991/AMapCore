@@ -1,3 +1,11 @@
+/*
+ * @Author: thunderchen
+ * @Date: 2025-07-08 16:36:04
+ * @LastEditTime: 2025-07-08 17:35:19
+ * @email: 853524319@qq.com
+ * @Description: AMapCore
+ */
+
 import AMapLoader from '@amap/amap-jsapi-loader';
 import "@amap/amap-jsapi-types";
 
